@@ -198,15 +198,14 @@
 .pb_lg_py_cover,
 .pb_xl_py_cover {
   position: relative;
-  padding: 6em 0; }
+  padding: 1em 0; }
   @media (max-width: 767px) {
     .pb_sm_py_cover,
     .pb_md_py_cover,
     .pb_lg_py_cover,
     .pb_xl_py_cover {
       height: inherit;
-      text-align: center !important;
-      padding: 6em 0; } }
+      padding: 1em 0; } }
   .pb_sm_py_cover > .container,
   .pb_md_py_cover > .container,
   .pb_lg_py_cover > .container,
@@ -216,14 +215,14 @@
     .pb_md_py_cover > .container > .row,
     .pb_lg_py_cover > .container > .row,
     .pb_xl_py_cover > .container > .row {
-      padding: 6em 0; }
+      padding: 1em 0; }
       @media (max-width: 767px) {
         .pb_sm_py_cover > .container > .row,
         .pb_md_py_cover > .container > .row,
         .pb_lg_py_cover > .container > .row,
         .pb_xl_py_cover > .container > .row {
           height: inherit;
-          padding: 6em 0; } }
+          padding: 1em 0; } }
   .pb_sm_py_cover .heading,
   .pb_md_py_cover .heading,
   .pb_lg_py_cover .heading,
@@ -231,7 +230,7 @@
     font-size: 62px;
     color: white;
     font-weight: 300;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 0px; }
     @media (max-width: 767px) {
       .pb_sm_py_cover .heading,
@@ -281,36 +280,36 @@
           padding: 3em 0; } }
 
 .pb_lg_py_cover {
-  padding: 8em 0; }
+  padding: 1em 0; }
   @media (max-width: 767px) {
     .pb_lg_py_cover {
       height: inherit;
       text-align: center !important;
-      padding: 8em 0; } }
+      padding: 1em 0; } }
   .pb_lg_py_cover > .container {
     position: relative; }
     .pb_lg_py_cover > .container > .row {
-      padding: 4em 0; }
+      padding: 1em 0; }
       @media (max-width: 767px) {
         .pb_lg_py_cover > .container > .row {
           height: inherit;
-          padding: 4em 0; } }
+          padding: 1em 0; } }
 
 .pb_xl_py_cover {
-  padding: 10em 0; }
+  padding: 3em 0; }
   @media (max-width: 767px) {
     .pb_xl_py_cover {
       height: inherit;
       text-align: center !important;
-      padding: 10em 0; } }
+      padding: 3em 0; } }
   .pb_xl_py_cover > .container {
     position: relative; }
     .pb_xl_py_cover > .container > .row {
-      padding: 7em 0; }
+      padding: 1em 0; }
       @media (max-width: 767px) {
         .pb_xl_py_cover > .container > .row {
           height: inherit;
-          padding: 7em 0; } }
+          padding: 1em 0; } }
 
 .pb_cover,
 .pb_cover_v1,
@@ -318,7 +317,7 @@
 .pb_cover_v3,
 .pb_cover_v4 {
   position: relative;
-  height: 95vh; }
+  height: 100vh; }
   @media (max-width: 767px) {
     .pb_cover,
     .pb_cover_v1,
